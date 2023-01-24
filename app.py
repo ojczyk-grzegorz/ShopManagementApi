@@ -43,5 +43,6 @@ def get_db_data():
     
 
 def update_db_data(new_db_data):
+    json_string = json.dumps(new_db_data)
     with open(DB_FILEPATH, "w") as db_file:
-        json.dumps(db_file, new_db_data)
+        db_file.write(json_string)
