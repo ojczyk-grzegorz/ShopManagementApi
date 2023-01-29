@@ -1,1 +1,1 @@
-{"items": {"1": {"name": "apple", "count": 12, "unit": "kg", "price/unit": 1200, "currency": "PLN/100"}, "2": {"name": "orange", "count": 33, "unit": "kg", "price/unit": 1200, "currency": "PLN/100"}}}
+{"items": {"1": {"name": "apple", "count": 6, "unit": "kg", "price/unit": 1200, "currency": "PLN/100"}, "2": {"name": "orange", "count": 33, "unit": "kg", "price/unit": 1200, "currency": "PLN/100"}}}
